@@ -5,7 +5,8 @@ Make a discord bot!
 ## Step 1: Setup
 
 1. [Create a bot in discord and get a token](https://web.archive.org/web/20230314183120/https://docs.replit.com/tutorials/python/build-basic-discord-bot-python#creating-a-bot-in-discord-and-getting-a-token)
-2. Add your tokens to `secret.py`
+2. Make a new file `secret.py` and add this line:
+    my_secret = "YOURTOKEN"
 2. [Set ALL permissions to ON](https://web.archive.org/web/20230314183120/https://docs.replit.com/tutorials/python/build-basic-discord-bot-python#privileged-gateway-intents)
 3. [Add your bot to the server](https://docs.replit.com/tutorials/python/build-basic-discord-bot-python#adding-your-discord-bot-to-your-discord-server)
 4. Make a channel for your bot
