@@ -5,7 +5,6 @@ Do NOT modify this file
 Instead, modify the functions in `my_bot.py`
 """
 
-import os
 import discord
 import my_bot
 from secret import *
